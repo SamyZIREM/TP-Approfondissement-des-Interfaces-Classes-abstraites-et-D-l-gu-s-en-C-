@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\TP\bin\Debug\net9.0\TP.exe
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\TP\bin\Debug\net9.0\TP.deps.json
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\TP\bin\Debug\net9.0\TP.runtimeconfig.json
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\TP\bin\Debug\net9.0\TP.dll
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\TP\bin\Debug\net9.0\TP.pdb
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\TP\obj\Debug\net9.0\TP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\TP\obj\Debug\net9.0\TP.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\TP\obj\Debug\net9.0\TP.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\TP\obj\Debug\net9.0\TP.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\TP\obj\Debug\net9.0\TP.dll
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\TP\obj\Debug\net9.0\refint\TP.dll
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\TP\obj\Debug\net9.0\TP.pdb
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\TP\obj\Debug\net9.0\TP.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\TP\obj\Debug\net9.0\ref\TP.dll
